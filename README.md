@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
 
-<a href="https://twitter.com/NiloyVau4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niloyahmed" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niloyahmed" height="30" width="40" /></a>
 <a href="https://fb.com/NILOY.VAU.6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NILOY.VAU.6" height="30" width="40" /></a>
 <a href="https://instagram.com/its.raflyyy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/its.raflyyy_/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/Rafly-XD/UCc-4SLIbh0NJtGPeQHbec6w
@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-> DATABASE:
+
 
 
 

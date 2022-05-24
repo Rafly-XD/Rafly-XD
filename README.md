@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.youtube.com/Rafly-XD/UCc-4SLIbh0NJtGPeQHbec6w
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/Rafly-XD/ucc-4slibh0njtgpeqhbec6w" height="30" width="40" /></a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/Rafly-XD) <a href="https://github.com/Rafly-XD"></a>
+
 
 </p>
 
